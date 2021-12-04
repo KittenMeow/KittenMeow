@@ -1,0 +1,5 @@
+- Hi, I’m @KittenMeow
+- I’m interested in mathematics, OSDev, Vintage Computers and general programming in C and Assembly.
+- I’m currently learning OSDev.
+- I’m looking to collaborate on OSDev or vintage computing.
+- Reach me at crazypurrfect@gmail.com
